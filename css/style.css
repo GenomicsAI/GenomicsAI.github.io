@@ -625,7 +625,7 @@ ul.tabs-nav .tab-nav.active {
 --------------------------------*/
 .subscribe-banner {
     padding: 80px 0;
-    background: url("images/subscribe-bg.png") no-repeat center;
+    background: url("../images/subscribe-bg.png") no-repeat center;
     background-size: cover;
     text-align: center;
 }
@@ -770,7 +770,7 @@ ul.tabs-nav .tab-nav.active {
 --------------------------------*/
 .our-departments {
     padding: 100px 0;
-    background: url(images/departments-bg.jpg) no-repeat;
+    background: url(../images/departments-bg.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -857,7 +857,7 @@ ul.tabs-nav .tab-nav.active {
     z-index: -1;
     width: 50%;
     height: 100%;
-    background: url("images/testimonial-bg.jpg") no-repeat right center;
+    background: url("../images/testimonial-bg.jpg") no-repeat right center;
     background-size: cover;
 }
 
@@ -885,7 +885,7 @@ ul.tabs-nav .tab-nav.active {
     z-index: -1;
     width: 499px;
     height: 492px;
-    background: url("images/testimonial-content-bg.png") no-repeat;
+    background: url("../images/testimonial-content-bg.png") no-repeat;
 }
 
 .testimonial-slider .content-wrap {
@@ -908,7 +908,7 @@ ul.tabs-nav .tab-nav.active {
     left: 0;
     width: 46px;
     height: 46px;
-    background: url("images/testimonial-p-bg.png") no-repeat;
+    background: url("../images/testimonial-p-bg.png") no-repeat;
 }
 
 .testimonial-slider .testimonial-user {
@@ -969,19 +969,19 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .testimonial-slider .swiper-pagination-bullet:nth-of-type(1) {
-    background: url("images/user-1.jpg");
+    background: url("../images/user-1.jpg");
 }
 
 .testimonial-slider .swiper-pagination-bullet:nth-of-type(2) {
-    background: url("images/user-2.jpg");
+    background: url("../images/user-2.jpg");
 }
 
 .testimonial-slider .swiper-pagination-bullet:nth-of-type(3) {
-    background: url("images/user-3.jpg");
+    background: url("../images/user-3.jpg");
 }
 
 .testimonial-slider .swiper-pagination-bullet:nth-of-type(4) {
-    background: url("images/user-4.jpg");
+    background: url("../images/user-4.jpg");
 }
 
 .testimonial-slider .swiper-pagination-bullet-active {
@@ -1150,7 +1150,7 @@ ul.tabs-nav .tab-nav.active {
 
 .faq-stuff {
     padding: 100px 0;
-    background: url("images/faq-bg.jpg") no-repeat;
+    background: url("../images/faq-bg.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -1505,7 +1505,7 @@ ul.tabs-nav .tab-nav.active {
 .site-footer {
     position: relative;
     padding: 48px 0;
-    background: url("images/footer-bg.png") no-repeat center #fff;
+    background: url("../images/footer-bg.png") no-repeat center #fff;
     background-size: cover;
     font-size: 14px;
     color: #828282;
